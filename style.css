@@ -339,7 +339,7 @@ textarea {
 #footer {
     background-color: #4db5ff;
     padding: 2rem;
-    padding-bottom: 4rem;
+    padding-bottom: 0.5rem;
 }
 
 ul li {
@@ -411,7 +411,7 @@ ul li a:hover {
 #bottom {
     position: fixed;
     width: 100%;
-    height: 6rem;
+    height: 1rem;
     display: none;
     justify-content: center;
     align-items: center;
